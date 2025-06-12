@@ -1,7 +1,7 @@
 
 # ⚡ Music Player
 
-Project Bolt is a modern frontend starter template built with **Vite**, **React**, and **TypeScript**, designed for building high-performance, scalable web applications with minimal configuration.
+this project is a modern frontend starter template built with **Vite**, **React**, and **TypeScript**, designed for building high-performance, scalable web applications with minimal configuration.
 
 ## 🚀 Features
 
